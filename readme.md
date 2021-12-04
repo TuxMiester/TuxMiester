@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Taksh :) 
+# Hi there 👋 
 <br />
 
 [![Github](https://img.shields.io/github/followers/TuxMiester?label=Follow&style=social)](https://github.com/TuxMiester) &nbsp; ![views](https://komarev.com/ghpvc/?username=TuxMiester)
